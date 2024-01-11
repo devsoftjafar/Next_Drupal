@@ -51,7 +51,7 @@
 /nextcodebase/lerna-debug.log*
 
 # local env files
-#/nextcodebase/.env.local
+
 /nextcodebase/.env.development.local
 /nextcodebase/.env.test.local
 /nextcodebase/.env.production.local
